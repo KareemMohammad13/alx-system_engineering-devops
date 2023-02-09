@@ -1,2 +1,2 @@
-abs_path=$(cd "$(dirname "$0")"; pwd)
-echo "The absolute path of the current working directory is: $abs_path"
+#!/bin/bash
+pwd
