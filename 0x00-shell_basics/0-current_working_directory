@@ -1,7 +1,2 @@
-#!/bin/bash
-
-# Get the absolute path of the current working directory
 abs_path=$(cd "$(dirname "$0")"; pwd)
-
-# Print the absolute path
 echo "The absolute path of the current working directory is: $abs_path"
